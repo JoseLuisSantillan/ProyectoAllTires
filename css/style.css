@@ -24,6 +24,14 @@
 }
 
 
+p.size{
+    font-size: 28px;
+}
+p.size2{
+    font-size: 20px;
+}
+
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
