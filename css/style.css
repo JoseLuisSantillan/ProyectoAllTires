@@ -28,9 +28,18 @@ p.size{
     font-size: 28px;
 }
 p.size2{
-    font-size: 20px;
+    font-size: 24px;
+}
+p.color{
+    color: black;
+}
+a.color{
+    color: var(--secondary);
 }
 
+h5.size{
+    font-size: 28px;
+}
 
 /*** Spinner ***/
 #spinner {
