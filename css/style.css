@@ -195,6 +195,11 @@ h5.size{
         height: 100%;
         object-fit: cover;
     }
+    
+    img.service{
+        width: 40%;
+        height: 40%;
+    }
 }
 
 .page-header {
